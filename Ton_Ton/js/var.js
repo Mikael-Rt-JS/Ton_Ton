@@ -29,7 +29,7 @@ let menu={
       "name":"Egg and Avocado Toast",
       "ingredientsEN":"Avocado, DillCucumber, Refrigerated, Eggs, Condiments, Lime juice, Mayonnaise, Tabasco sauce, Oils & Vinegars, Olive oil",
       "ingredientsRU":"Авокадо, Укроп, Огурец, Охлажденныйяйца, Приправы, Лаймовый сок, Майонез, соус табаско, Масла и уксусы, Оливковое масло",
-      "ingredientsAM":"Ավոկադո, սամիթ վարունգ, սառնարանում, ձու, համեմունքներ, կրաքարի հյութ, մայոնեզ, տաբասկո սոուս, յուղեր և քացախներ, ձիթապտղի յուղ",
+      "ingredientsAM":"Ավոկադո, սամիթ, վարունգ, սառնարանային ձու, համեմունքներ, կրաքարի հյութ, մայոնեզ, տաբասկո սոուս, յուղեր և քացախներ, ձիթապտղի յուղ",
       "price":0,
       "imgs":"./imgs/tosts/tost_1.jpg",
       "active":true
@@ -83,7 +83,7 @@ let menu={
       "name":"Rice Toast",
       "ingredientsEN":"Basmati, Rice, Cucumber, Walnuts, Refrigerate, Egg, Baking & Spices, Black pepper & Salt,Oils & Vinegars, 1 tbsp Olive oil, Bread & Baked Goods, 1 Bread, toasted, Dairy, Armenian cheesek",
       "ingredientsRU":"Рис басмати, огурец, грецкий орех, охлажденный, яйцо, Выпечка и специи, Черный перец и соль, Масла и уксусы, 1 столовая ложка оливкового масла, Хлеб и выпечка, 1 Хлеб поджаренный, Молочные продукты, Армянский творог",
-      "ingredientsAM":"Բասմատի բրինձ, վարունգ, ընկույզ, սառնարանում, ձու, Թխում և համեմունքներ, Սև պղպեղ և աղՅուղեր և քացախներ, 1 ճ/գ ձիթապտղի յուղ, Հաց և թխած ապրանքներ, 1 Հաց, տապակած, Կաթնամթերք, Հայկական պանիր",
+      "ingredientsAM":"Բասմատի բրինձ, վարունգ, ընկույզ, սառնարանային ձու, Թխում և համեմունքներ, Սև պղպեղ և աղՅուղեր և քացախներ, 1 ճ/գ ձիթապտղի յուղ, Հաց և թխած ապրանքներ, 1 Հաց, տապակած, Կաթնամթերք, Հայկական պանիր",
       "price":0,
       "imgs":"./imgs/tosts/tost_7.jpg",
       "active":true
@@ -117,7 +117,7 @@ let menu={
       "name":"Black Bean & Corn Salsa Salad",
       "ingredientsEN":"Black beans, Cilantro, Corn, Cucumbers, Green pepper, Red onion, Tomatoes, Condiments, 1 tbsp Honey, Baking & Spices, Salt & black pepper, Oils & Vinegars, 1/4 cup Apple cider vinegar, 2 tbsp Olive oil",
       "ingredientsRU":"Черная фасоль, Кинза, Кукуруза, Огурцы, Зеленый перец, Красный лук, Помидоры, Приправы,1 ст.л. Мед, Выпечка и специи, Соль и черный перец, Масла и уксусы, 1/4 стакана яблочного уксуса, 2 ст. л. оливкового масла.",
-      "ingredientsAM":"Սև լոբի, մոխիր, եգիպտացորեն, վարունգ, կանաչ պղպեղ, կարմիր սոխ, լոլիկՀամեմունքներ, 1 ճ/գ մեղր, Թխում և համեմունքներ, Աղ և սև պղպեղ Յուղեր և քացախներ, 1/4 բաժակ խնձորի քացախ, 2 ճաշի գդալ ձիթապտղի յուղ",
+      "ingredientsAM":"Սև լոբի, մոխիր, եգիպտացորեն, վարունգ, կանաչ պղպեղ, կարմիր սոխ, լոլիկ, Համեմունքներ, 1 ճ/գ մեղր, Թխում և համեմունքներ, Աղ և սև պղպեղ Յուղեր և քացախներ, 1/4 բաժակ խնձորի քացախ, 2 ճաշի գդալ ձիթապտղի յուղ",
       "price":0,
       "imgs":"./imgs/salads/salad_2.jpg",
       "active":true
