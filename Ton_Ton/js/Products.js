@@ -19,8 +19,8 @@ class Products{
       <div class="right">
         <div class="title_phone">
           <h3>${menu[i].name}</h3>
-          <a class="order_link" href="tel:+37496969672">${other.order_phone
-}<br> <span class="phones">+374-96-96-96-72</span></a>
+          <a class="order_link" href="tel:+37444280696">${other.order_phone
+}<br> <span class="phones">+374-44-28-06-96</span></a>
         </div>
 
         <div class="produce">
