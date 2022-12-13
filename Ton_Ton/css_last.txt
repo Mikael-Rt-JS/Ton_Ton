@@ -1,0 +1,109 @@
+.header{
+  width: 100%;
+  padding: 60px 5px 0 5px;
+  
+}
+
+#main_menu{
+  width: 100%;
+  padding: 10px;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.card{
+  width: 100%;
+  padding: 10px;
+  border-radius: 6px;
+  
+  background: #2c2a2c;
+  color: snow;
+
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  grid-column-gap: 10px;
+}
+.card img{
+  grid-column: 1;
+  width: 300px;
+  height: 320px;
+  border-radius: 6px;
+}.card h3{
+  align-self: center;
+  
+  font-size: 28px;
+  margin-left: 20px;
+}.card p,.card b{
+  font-size: 14px;
+  letter-spacing: 3px;
+  line-height: 20px;
+  padding-left: 10px;
+}
+.card b{
+  padding-top: 10px;
+  border-top: 1px solid snow;
+  margin-bottom: 10px;
+}
+.card p{
+  border-bottom: 1px solid snow;
+}
+.produce{
+  width: 100%;
+  padding: 0 5px;
+  
+  display: grid;
+  grid-template-columns: 1fr;
+}
+.right{
+  grid-column: 2/3;
+
+  width: 100%;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 80px auto;
+  
+}
+.right a{
+  color: snow;
+  display: block;
+  margin-left: 20px;
+  margin-top: 10px;
+  
+}
+.phones{
+  color: gold;
+}
+
+.price{
+  font-size: 30px;
+  justify-self: end;
+
+  margin-right: 25px;
+  margin-top: 40px;
+}
+
+@media(max-width: 930px){
+  .card{
+    height: auto;
+    grid-template-columns: 155px 1fr;
+    grid-column-gap: 10px;
+  }
+  .card img{
+    width: 100%;
+    height: 170px;
+    border-radius: 6px;
+  }
+  .card p{
+    font-size: 14px;
+    letter-spacing: 3px;
+    line-height: 20px;
+    padding:0 10px;
+  }
+  .right{
+    grid-column: 1/2;
+    grid-row: 2/3;
+  }
+}

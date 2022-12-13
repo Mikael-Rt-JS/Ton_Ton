@@ -1,0 +1,63 @@
+<header class="header">
+    <main id="main_menu">
+      <div class="card">
+        <img class="img-left" src="./imgs/tosts/tost_6.jpg" title="" alt=""/>
+        <div class="right">
+          <div>
+            <h3>Egg and Avocado Toast</h3>
+            <a href="tel:+37496969672">Order by phone number <span class="phones">+374-96-96-96-72</span></a>
+          </div>
+          <div class="produce">
+            <b>Ingredients</b>
+            <p>
+              Avocado,DillCucumber,Refrigerated,Eggs,Condiments,Lime juice,Mayonnaise,Tabasco sauce,Oils & Vinegars,Olive oil
+            </p>   
+          </div>
+          
+          <span class="price">Price: 1200 &#1423;</span>
+        </div>
+      </div>
+
+      <div class="card">
+        <img class="img-left" src="./imgs/tosts/tost_7.jpg" title="" alt=""/>
+        <div class="right">
+          <div>
+            <h3>Creamy Mushroom Toast</h3>
+            <a href="tel:+37496969672">Order by phone number <span class="phones">+374-96-96-96-72</span></a>
+          </div>
+          <div class="produce">
+            <b>Ingredients</b>
+            <p>
+              Avocado,DillCucumber,Refrigerated,Eggs,Condiments,Lime juice,Mayonnaise,Tabasco sauce,Oils & Vinegars,Olive oil
+            </p>   
+          </div>
+          <span class="price">Price: 1200 &#1423;</span>
+        </div>
+      </div>
+      
+    </main>
+  </header>
+
+
+
+test
+
+<div class="cards">
+      <img class="img-left" src="./imgs/tosts/tost_1.jpg" title="" alt=""/>
+      <div class="right">
+        <div class="title_phone">
+          <h3>Creamy Mushroom Toast</h3>
+          <a class="order_link" href="tel:+37496969672">Order by phone number <span class="phones">+374-96-96-96-72</span></a>
+        </div>
+
+        <div class="produce">
+          <b>Ingredients</b>
+          <p>
+            Chili flakes, Garlic clove, Onion,Parsley, Mushroom, Rocket leaves, Condiments, Balsamic Vinegar, Baking & Spices, Salt and pepper, Oils & Vinegars, Olive oil, Bread & Baked Goods, Whole grain toasted, Dairy, Cheese
+          </p>
+        </div>
+        <div class="price_block">
+          <span class="price">Price: 1200 &#1423;</span>
+        </div>
+      </div>
+    </div>
