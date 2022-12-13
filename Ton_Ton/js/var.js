@@ -8,9 +8,9 @@ let categories={
   'AM':['տոստեր','խմիչքներ','աղցաններ','խորտիկներ']
 };
 let order_phone={
-  'EN':'Order by phone number',
-  'RU':'Заказ по номеру телефона',
-  'AM':'Պատվիրեք հեռախոսահամարով'
+  'EN':'We work from 08:00-20:00.<br> Order by phone number',
+  'RU':'Работаем от 08:00-20:00.<br> Заказ по номеру телефона',
+  'AM':'Աշխատում ենք 08:00-20:00:<br> Պատվիրեք հեռախոսահամարով'
 };
 let ingredients={
   'EN':'Ingredients',
