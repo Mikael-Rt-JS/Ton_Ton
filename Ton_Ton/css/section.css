@@ -167,6 +167,9 @@
     font-size: 12px;
     letter-spacing: 0px;
   }
+  .cards b{
+    font-size: 14px;
+  }
 }
 @media (max-width: 190px){
   .price{
