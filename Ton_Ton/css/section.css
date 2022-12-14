@@ -1,7 +1,16 @@
 .null_block{
-  height: 90px;
+  height: 60px;
 }
-
+.logo_tonton{
+  padding: 6px 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  border-radius: 13px;
+  color: snow;
+  font-weight: 900;
+  width: 115px;
+}
 .products_block{
   width: 100%;
   height: auto;
