@@ -15,7 +15,7 @@ class Products{
     
     for(let i=0;i<menu.length;i++){
       str+=`<div class="cards">
-      <img class="img-left" src="${imgPath+(i+1)+'.jpg'}" title="${menu[i].name}" alt="${menu[i].name}"/>
+      <img class="img-left" src="${menu[i].imgs}" title="${menu[i].name}" alt="${menu[i].name}"/>
       <div class="right">
         <div class="title_phone">
           <h3>${menu[i].name}</h3>
