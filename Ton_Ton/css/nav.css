@@ -57,11 +57,19 @@
 }
 
 @media (max-width: 420px){
-  #categories{
+/*   #categories{
     padding-top: 10px;
     flex-direction: column;
   }
   .menu{
     height: auto;
+  } */
+  
+  #categories{
+    padding-top: 10px;
+/*     flex-direction: column; */
+  }
+  #categories li{
+    font-size: 14px;
   }
 }
