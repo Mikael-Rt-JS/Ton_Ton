@@ -71,15 +71,6 @@ let menu={
       "active":true
     },
     {
-      "name":"French Bread Pesto Chicken Pizza",
-      "ingredientsEN":"Chicken breast medium, boneless skinless, Cherry tomatoes, Condiments, 1/3 cup Basil pesto, Baking & Spices, Salt, Oils & Vinegars, 1 tbsp Olive oil, Bread & Baked Goods, 1 Baguette, Dairy, Mozzarella cheese, Parmesan cheese",
-      "ingredientsRU":"Куриная грудка среднего размера, без костей без кожи, помидоры Черри, Приправы, 1/3 стакана песто с базиликом, Выпечка и специи, Соль, Масла и уксусы, 1 столовая ложка оливкового масла, Хлеб и выпечка, 1 Багет, Молочные продукты, Сыр Моцарелла, Сыр Пармезан",
-      "ingredientsAM":"Հավի կրծքամիս միջին, առանց ոսկորների, առանց մաշկի, Չերի լոլիկ, Համեմունքներ, 1/3 բաժակ ռեհանի պեստո, Թխում և համեմունքներ, ԱղՅուղեր և քացախներ, 1 ճ/գ ձիթապտղի յուղ, Հաց և թխում, 1 բագետ,Կաթնամթերք, Մոցարելլա պանիր, Պարմեզան պանիր",
-      "price":1500,
-      "imgs":"./imgs/tosts/tost_6.jpg",
-      "active":true
-    },
-    {
       "name":"Rice Toast",
       "ingredientsEN":"Basmati, Rice, Cucumber, Walnuts, Refrigerate, Egg, Baking & Spices, Black pepper & Salt,Oils & Vinegars, 1 tbsp Olive oil, Bread & Baked Goods, 1 Bread, toasted, Dairy, Armenian cheesek",
       "ingredientsRU":"Рис басмати, огурец, грецкий орех, охлажденный, яйцо, Выпечка и специи, Черный перец и соль, Масла и уксусы, 1 столовая ложка оливкового масла, Хлеб и выпечка, 1 Хлеб поджаренный, Молочные продукты, Армянский творог",
@@ -135,4 +126,16 @@ let menu={
     }
   ]
 };
+/*
+tosts
+{
+      "name":"French Bread Pesto Chicken Pizza",
+      "ingredientsEN":"Chicken breast medium, boneless skinless, Cherry tomatoes, Condiments, 1/3 cup Basil pesto, Baking & Spices, Salt, Oils & Vinegars, 1 tbsp Olive oil, Bread & Baked Goods, 1 Baguette, Dairy, Mozzarella cheese, Parmesan cheese",
+      "ingredientsRU":"Куриная грудка среднего размера, без костей без кожи, помидоры Черри, Приправы, 1/3 стакана песто с базиликом, Выпечка и специи, Соль, Масла и уксусы, 1 столовая ложка оливкового масла, Хлеб и выпечка, 1 Багет, Молочные продукты, Сыр Моцарелла, Сыр Пармезан",
+      "ingredientsAM":"Հավի կրծքամիս միջին, առանց ոսկորների, առանց մաշկի, Չերի լոլիկ, Համեմունքներ, 1/3 բաժակ ռեհանի պեստո, Թխում և համեմունքներ, ԱղՅուղեր և քացախներ, 1 ճ/գ ձիթապտղի յուղ, Հաց և թխում, 1 բագետ,Կաթնամթերք, Մոցարելլա պանիր, Պարմեզան պանիր",
+      "price":1500,
+      "imgs":"./imgs/tosts/tost_6.jpg",
+      "active":true
+    },
+    */
 
