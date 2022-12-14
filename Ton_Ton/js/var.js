@@ -83,6 +83,15 @@ let menu={
       "price":1200,
       "imgs":"./imgs/tosts/tosts_7.jpg",
       "active":true
+    },
+    {
+      "name":"Cheese Sandwich",
+      "ingredientsEN":"Green onions, fresh, Cheese, Tomato’s, Dill, Parsley, Baking & Spices, Black pepper & salt",
+      "ingredientsRU":"Зеленый лук, свежий, Сыр, Помидоры, Укроп, Петрушка, Выпечка и специи, Черный перец и соль",
+      "ingredientsAM":"Կանաչ սոխ, թարմ, Պանիր, լոլիկ, սամիթ, մաղադանոս, խմորեղեն և համեմունքներ, սև պղպեղ և աղ",
+      "price":0,
+      "imgs":"./imgs/tosts/tosts_8.jpg",
+      "active":true
     }
   ],
   'drinks':[
