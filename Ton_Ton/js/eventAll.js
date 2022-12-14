@@ -1,13 +1,13 @@
-$('lang').addEventListener('change',e=>{
-  nowlang=e.target.value;
-  categorie.idCategoriesToHTML(categories[nowlang],$('categories'),categories['EN']);
-  // product.nowCategorie='tosts';
-  product.idMain_menuToHTML(menu[product.nowCategorie],$('products_block'),nowlang,{
-    order_phone:order_phone[nowlang],
-    price:price[nowlang],
-    ingredients:ingredients[nowlang]
-  });
-});
+// $('lang').addEventListener('change',e=>{
+//   nowlang=e.target.value;
+//   categorie.idCategoriesToHTML(categories[nowlang],$('categories'),categories['EN']);
+//   // product.nowCategorie='tosts';
+//   product.idMain_menuToHTML(menu[product.nowCategorie],$('products_block'),nowlang,{
+//     order_phone:order_phone[nowlang],
+//     price:price[nowlang],
+//     ingredients:ingredients[nowlang]
+//   });
+// });
 
 $('categories').addEventListener('click',e=>{
   if(e.target.dataset.categorie){
@@ -22,3 +22,14 @@ $('categories').addEventListener('click',e=>{
     
   }
 })
+window.addEventListener('change',e=>{
+   if(e.target.id==='lang'){
+     nowlang=e.target.value;  
+     categorie.idCategoriesToHTML(categories[nowlang],$('categories'),categories['EN' ]);
+      product.idMain_menuToHTML(menu[product.nowCategorie],$('products_block'),nowlang,{
+        order_phone:order_phone[nowlang],
+        price:price[nowlang],
+        ingredients:ingredients[nowlang]
+      });
+   }
+ })
