@@ -8,7 +8,7 @@
   padding: 0 5px;
   
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 60px 1fr;
   align-items: center;
 
 /*   background: rgba(35,21,60,0.4); */
@@ -49,6 +49,7 @@
   transition: all 0.8s;
 }
 #lang{
+  grid-column: 1/2;
   width: 60px;
   background: none;
   border: 1px solid snow;
