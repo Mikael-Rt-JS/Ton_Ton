@@ -2,10 +2,15 @@ let l=console.log;
 let $=(ip,d=document)=>
   d.querySelector(`#${ip}`) || d.querySelector(`.${ip}`);
 
+// let categories={
+//   'EN':['tosts','drinks','salads','snacks'],
+//   'RU':['тосты','выпивки','салаты','закуски'],
+//   'AM':['տոստեր','խմիչքներ','աղցաններ','խորտիկներ']
+// };
 let categories={
-  'EN':['tosts','drinks','salads','snacks'],
-  'RU':['тосты','выпивки','салаты','закуски'],
-  'AM':['տոստեր','խմիչքներ','աղցաններ','խորտիկներ']
+  'EN':['tosts','salads','snacks'],
+  'RU':['тосты','салаты','закуски'],
+  'AM':['տոստեր','աղցաններ','խորտիկներ']
 };
 let order_phone={
   'EN':'We work from 08:00-20:00.<br> Order by phone number',
