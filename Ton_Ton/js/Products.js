@@ -30,7 +30,7 @@ class Products{
           </p>
         </div>
         <div class="price_block">
-          <span class="price">${other.price}: ${${menu[i].price} &#1423;</span>
+          <span class="price">${other.price}: ${menu[i].price} &#1423;</span>
         </div>
       </div>
     </div>`;
