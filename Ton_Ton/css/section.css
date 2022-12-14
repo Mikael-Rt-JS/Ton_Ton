@@ -129,9 +129,9 @@
   
 }
 @media (max-width: 490px){
-  .null_block{
+/*   .null_block{
     height: 170px;
-  }
+  } */
   .cards{
     grid-template-columns: 1fr;
   }
