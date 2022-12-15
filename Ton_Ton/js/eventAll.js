@@ -33,3 +33,18 @@ window.addEventListener('change',e=>{
       });
    }
  })
+$('products_block').addEventListener('click',e=>{
+  if(e.target.localName==='img'){
+    if($('show_imgs').classList.contains('close_imgs')){
+      $('show_imgs').classList.replace('close_imgs','show_imgs');
+      $('show_imgs').innerHTML=`
+      <button id="showimg_close" title="close">x</button>
+      <img id="product_imgs" src="${e.target.src}"/>`;
+      $('showimg_close').addEventListener('click',()=>{
+        $('show_imgs').classList.replace('show_imgs','close_imgs');
+        $('show_imgs').innerHTML=``;
+      });
+    }
+  }
+  
+})
